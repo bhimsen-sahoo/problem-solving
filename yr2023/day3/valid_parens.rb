@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Problem: https://leetcode.com/problems/valid-parentheses/
+
 # @param {String} s
 # @return {Boolean}
 def valid_parens?(expression)
